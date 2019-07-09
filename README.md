@@ -1,2 +1,2 @@
 # test
-just test it
+just testing git command
